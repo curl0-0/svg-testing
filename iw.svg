@@ -1,1 +1,1 @@
-<svg width="500" height="500"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><foreignObject width="500" height="500"><iframe xmlns="http://www.w3.org/1999/xhtml" src="https://google.com/robots.txt" width="800" height="850"/></foreignObject></svg>
+<svg width="500" height="500"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><script>alert(document.domain);</script></svg>
